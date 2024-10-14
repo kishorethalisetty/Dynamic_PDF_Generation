@@ -31,6 +31,9 @@ This is a Spring Boot application that provides a REST API for generating dynami
 ## API Endpoints
 Generate PDF
  **POST** `/api/pdf/generate`
+
+![Request](https://github.com/kishorethalisetty/Dynamic_PDF_Generation/blob/main/InvoiceRequest.png)
+ 
 Response
 
 - Success: Returns a message indicating the PDF has been generated along with a download link.
@@ -38,6 +41,8 @@ Response
 
 Download PDF
 **GET** `/api/pdf/download/{hash}`
+
+![Response]()
 
 Parameters
 
