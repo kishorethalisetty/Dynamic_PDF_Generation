@@ -42,7 +42,7 @@ Response
 Download PDF
 **GET** `/api/pdf/download/{hash}`
 
-![Response]()
+![Response](https://github.com/kishorethalisetty/Dynamic_PDF_Generation/blob/main/InvoiceResponse.png)
 
 Parameters
 
